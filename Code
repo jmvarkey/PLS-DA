@@ -1,0 +1,6 @@
+# Author: Julia Varkey
+# Purpose: Running PLS-DA analysis in Python 
+
+df = pd.read_table('coded.txt', sep='\t', delimiter=None, header= 'infer')    
+df
+
